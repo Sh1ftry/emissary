@@ -1,5 +1,4 @@
 # Generated from .in files
-/Chart.yaml
 /values.yaml
 
 # Generated from values.yaml by kubepack.dev/chart-doc-gen
